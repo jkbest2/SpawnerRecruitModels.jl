@@ -1,0 +1,7 @@
+name = "SpawnerRecruitModels"
+uuid = "0632d146-1598-4a6a-91ac-a484914cecf9"
+authors = ["John Best <jkbest@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1.5"
